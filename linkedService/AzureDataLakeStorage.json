@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataLakeStorage",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://azstorageaccionaeveris01.dfs.core.windows.net"
+		}
+	}
+}
